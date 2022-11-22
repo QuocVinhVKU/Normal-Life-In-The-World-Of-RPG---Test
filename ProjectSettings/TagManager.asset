@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - enemy
+  - PlayerHit
+  - room
+  - bat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Enemy
+  - Enemy Projectile
+  - Player Projectile
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - layer1
+  - layer2
+  - layer3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1704372817
+    locked: 0
+  - name: OnGround
+    uniqueID: 3167779119
+    locked: 0
+  - name: CollisionGround
+    uniqueID: 720839847
+    locked: 0
+  - name: Player
+    uniqueID: 2187693059
+    locked: 0
+  - name: OverPlayer
+    uniqueID: 2077545769
+    locked: 0
+  - name: layer1
+    uniqueID: 676591385
+    locked: 0
+  - name: layer2
+    uniqueID: 964674943
+    locked: 0
+  - name: layer3
+    uniqueID: 3258994635
+    locked: 0
